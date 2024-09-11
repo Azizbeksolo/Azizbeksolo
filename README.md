@@ -8,8 +8,8 @@
 
 ## 🔧 Back-end
 
-- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)  - ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)
+
 
 
 
